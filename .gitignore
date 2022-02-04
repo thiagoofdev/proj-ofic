@@ -1,0 +1,11 @@
+__pycache
+
+*.*~
+
+*.pyc 
+
+.idea 
+
+.venv
+
+.DS_Store
